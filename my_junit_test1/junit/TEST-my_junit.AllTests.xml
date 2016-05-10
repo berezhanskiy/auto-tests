@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="JoyRich_PC" name="my_junit.AllTests" skipped="0" tests="2" time="35.741" timestamp="2016-03-25T10:56:55">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="env.USERDOMAIN_ROAMINGPROFILE" value="JOYRICH_PC" />
+    <property name="ant.file.type.my_junit_test1" value="file" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="/D:/work/eclipse-jee-mars-1-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/templates/" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="os.name" value="Windows 10" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_73\jre\classes" />
+    <property name="env.COMPUTERNAME" value="JOYRICH_PC" />
+    <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\apache-ant-1.9.6" />
+    <property name="java.runtime.version" value="1.8.0_73-b02" />
+    <property name="env.HOMEPATH" value="\Users\Joy&amp;Rich" />
+    <property name="user.name" value="Joy&amp;Rich" />
+    <property name="user.language" value="en" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\bin" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="ant.project.name" value="my_junit_test1" />
+    <property name="java.version" value="1.8.0_73" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 42 Stepping 7, GenuineIntel" />
+    <property name="user.timezone" value="" />
+    <property name="env.TEMP" value="C:\Users\Joy&amp;Rich\AppData\Local\Temp" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_73\jre\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="ECLIPSE_HOME" value="../../eclipse-jee-mars-1-win32-x86_64/eclipse/" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_73\jre" />
+    <property name="env.PSModulePath" value="%ProgramFiles%\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules" />
+    <property name="env.APPDATA" value="C:\Users\Joy&amp;Rich\AppData\Roaming" />
+    <property name="env.PUBLIC" value="C:\Users\Public" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.ComSpec" value="C:\WINDOWS\system32\cmd.exe" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="ant.file" value="D:\work\Eclipse_projects\my_junit_test1\build.xml" />
+    <property name="os.version" value="10.0" />
+    <property name="env.ProgramW6432" value="C:\Program Files" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="25.73-b02" />
+    <property name="user.variant" value="" />
+    <property name="env.USERPROFILE" value="C:\Users\Joy&amp;Rich" />
+    <property name="ant.library.dir" value="C:\apache-ant-1.9.6\lib" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_73" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="env.TMP" value="C:\Users\Joy&amp;Rich\AppData\Local\Temp" />
+    <property name="env.FPS_BROWSER_USER_PROFILE_STRING" value="Default" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="eclipse.pdebuild.scripts" value="/D:/work/eclipse-jee-mars-1-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/scripts/" />
+    <property name="user.home" value="C:\Users\Joy&amp;Rich" />
+    <property name="target" value="1.8" />
+    <property name="env.ProgramData" value="C:\ProgramData" />
+    <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.NUMBER_OF_PROCESSORS" value="4" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_73/bin/server;C:/Program Files/Java/jre1.8.0_73/bin;C:/Program Files/Java/jre1.8.0_73/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\TortoiseSVN\bin;%JAVA_HOME\bin;%ANT_HOME\bin;%MAVEN_HOME\bin;D:\work\eclipse-jee-mars-1-win32-x86_64\eclipse;;." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
+    <property name="java.class.path" value="D:\work\Eclipse_projects\my_junit_test1\bin;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\selenium-java-2.52.0.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\selenium-java-2.52.0-srcs.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\apache-mime4j-0.6.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\bsh-2.0b4.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\cglib-nodep-2.1_3.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\commons-codec-1.10.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\commons-collections-3.2.2.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\commons-el-1.0.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\commons-exec-1.3.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\commons-io-2.4.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\commons-lang3-3.4.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\commons-logging-1.2.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\cssparser-0.9.16.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\gson-2.3.1.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\guava-19.0.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\hamcrest-core-1.3.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\hamcrest-library-1.3.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\htmlunit-2.18.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\htmlunit-core-js-2.17.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\httpclient-4.5.1.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\httpcore-4.4.3.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\httpmime-4.5.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\jasper-compiler-5.5.15.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\jasper-compiler-jdt-5.5.15.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\jasper-runtime-5.5.15.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\javax.servlet-api-3.1.0.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\jcommander-1.48.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\jetty-continuation-9.2.13.v20150730.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\jetty-http-9.2.13.v20150730.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\jetty-io-9.2.13.v20150730.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\jetty-jmx-9.2.13.v20150730.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\jetty-security-9.2.13.v20150730.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\jetty-server-9.2.13.v20150730.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\jetty-servlet-9.2.13.v20150730.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\jetty-servlets-9.2.13.v20150730.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\jetty-util-9.2.13.v20150730.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\jna-4.1.0.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\jna-platform-4.1.0.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\jsp-api-2.0.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\junit-4.12.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\nekohtml-1.9.22.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\netty-3.5.7.Final.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\phantomjsdriver-1.2.1.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\sac-1.3.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\serializer-2.7.2.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\testng-6.9.9.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\websocket-api-9.2.13.v20150730.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\websocket-client-9.2.13.v20150730.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\websocket-common-9.2.13.v20150730.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\xalan-2.7.2.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\xercesImpl-2.11.0.jar;D:\work\auto_tests\selenium\selenium-java-2.52.0\selenium-2.52.0\libs\xml-apis-1.4.01.jar;D:\work\eclipse-jee-mars-1-win32-x86_64\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\apache-ant-1.9.6\lib\ant-launcher.jar;C:\apache-ant-1.9.6\lib\ant.jar;C:\apache-ant-1.9.6\lib\ant-junit.jar;C:\apache-ant-1.9.6\lib\ant-junit4.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner my_junit.AllTests skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,D:\work\Eclipse_projects\my_junit_test1\junit\TEST-my_junit.AllTests.xml crashfile=D:\work\Eclipse_projects\my_junit_test1\junitvmwatcher5461455138605084390.properties propsfile=D:\work\Eclipse_projects\my_junit_test1\junit9022391517925128075.properties" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="env.windir" value="C:\WINDOWS" />
+    <property name="env.LOGONSERVER" value="\\MicrosoftAccount" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="env.ProgramFiles" value="C:\Program Files" />
+    <property name="env.ANT_HOME" value="C:\apache-ant-1.9.6" />
+    <property name="env.PROCESSOR_REVISION" value="2a07" />
+    <property name="eclipse.pdebuild.home" value="/D:/work/eclipse-jee-mars-1-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/./" />
+    <property name="java.io.tmpdir" value="C:\Users\Joy&amp;Rich\AppData\Local\Temp\" />
+    <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.SystemRoot" value="C:\WINDOWS" />
+    <property name="env.FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_73\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+    <property name="user.dir" value="D:\work\Eclipse_projects\my_junit_test1" />
+    <property name="env.MAVEN_HOME" value="C:\apache-maven-3.3.9" />
+    <property name="env.LOCALAPPDATA" value="C:\Users\Joy&amp;Rich\AppData\Local" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+    <property name="env.Path" value="C:/Program Files/Java/jre1.8.0_73/bin/server;C:/Program Files/Java/jre1.8.0_73/bin;C:/Program Files/Java/jre1.8.0_73/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\TortoiseSVN\bin;%JAVA_HOME\bin;%ANT_HOME\bin;%MAVEN_HOME\bin;D:\work\eclipse-jee-mars-1-win32-x86_64\eclipse;" />
+    <property name="basedir" value="D:\work\Eclipse_projects\my_junit_test1" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="C:\apache-ant-1.9.6\lib\ant.jar" />
+    <property name="env.USERNAME" value="Joy&amp;Rich" />
+    <property name="source" value="1.8" />
+    <property name="env.SystemDrive" value="C:" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="env.USERDOMAIN" value="JOYRICH_PC" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="ant.project.invoked-targets" value="build,my_junit (1),mysecond_junit,AllTests,junitreport" />
+    <property name="ant.file.my_junit_test1" value="D:\work\Eclipse_projects\my_junit_test1\build.xml" />
+    <property name="env.PROCESSOR_LEVEL" value="6" />
+    <property name="env.VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\" />
+  </properties>
+  <testcase classname="my_junit.my_junit" name="test" time="5.166" />
+  <testcase classname="my_junit.mysecond_junit" name="test2" time="22.065" />
+  <system-out><![CDATA[Window maximiseSite OpenEnd of Test]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
